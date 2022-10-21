@@ -1,5 +1,5 @@
 
-let num=13;
+let num=11;
 let f=true;
     for(let i=2; i<=num-1; i++){
         if(num%i==0){
